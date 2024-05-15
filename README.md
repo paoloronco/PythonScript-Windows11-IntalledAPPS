@@ -1,10 +1,6 @@
 # PythonScript-Windows11-IntalledAPPS
 A Python script that creates a list of installed apps on your Windows 11 PC
 
-# List of Installed Apps on Windows 11
-
-## Description
-
 This Python script allows you to quickly obtain a list of installed apps on your Windows 11 PC. It's useful in various situations, such as when you want to view all the apps on your system, you're planning to reset your PC and want to keep track of your applications, or you're a system administrator who needs information on software installed by users in a fast and intuitive way.
 
 ## Usage
