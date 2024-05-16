@@ -19,5 +19,7 @@ This Python script allows you to quickly obtain a list of installed apps on your
 
 <p align="center">
 <img src="./demo/PythonScript-Windows11-IntalledAPPS-ezgif.com-video-to-gif-converter.gif" width="600"><br>
-<strong>LiveTerm with different themes</strong>
+<strong>demo</strong>
 </p>
+
+[YouTube DEMO](https://youtu.be/RSHU3abECJc)
