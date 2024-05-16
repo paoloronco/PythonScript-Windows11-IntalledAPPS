@@ -16,3 +16,8 @@ This Python script allows you to quickly obtain a list of installed apps on your
 5. Wait a moment while the script processes the information.
 
 6. Once the script execution is complete, you'll find a file named `installed_apps.txt` on your PC desktop. This file will contain the list of installed apps on your system.
+
+<p align="center">
+<img src="./demo/PythonScript-Windows11-IntalledAPPS-ezgif.com-video-to-gif-converter.gif" width="600"><br>
+<strong>LiveTerm with different themes</strong>
+</p>
